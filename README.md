@@ -4,12 +4,12 @@
 
 ## Student Details
 
-- Name: YOUR FULL NAME
-- Registration Number: YOUR REGISTRATION NUMBER
-- Section: YOUR SECTION
+- Name: Pratik Jadhav 
+- Registration Number: 252U1R5055
+- Section: S-10
 - Course: Backend Development Fundamentals
 - Lab: Lab 1
-- Faculty: Joel Prashanth D
+- Faculty: SAI SHIVA TEJA SIR
 
 ## Objective
 
